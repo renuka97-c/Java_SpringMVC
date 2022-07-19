@@ -1,0 +1,24 @@
+@charset "ISO-8859-1";
+
+h1{
+	color: red;
+
+}
+
+.myButton{
+	color: white;
+	background-color: Green;
+	transition-duration: 5s;
+}
+
+.myButton:hover{
+	
+	background-color: Yellow;
+	color: black;
+}
+
+.myTable{
+	
+	width: 100%;
+	font-family: sans-serif;
+}
